@@ -55,5 +55,5 @@ The typefaces used in the bulletins have been kindly provided by [CAST — Coope
 
 
 ##Disclaimer
-All the information presented here has been researched, organized and edited by the people involved in this project. The original sources are included in the printed A3 bulletins, as well as in every XML file. Although a lot of attention has been put into editing the contents, some texts and visualizations may contain errors, and/or some facts may have been misinterpreted by mistake. 
+All the information presented here has been researched, organized and edited by the people involved in this project. The original sources are included in the printed A3 bulletins, as well as in every XML file. Although a lot of attention has been put into editing the contents, some texts and visualisations may contain errors, and/or some facts may have been misinterpreted by mistake. 
 
